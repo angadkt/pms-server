@@ -84,3 +84,4 @@ export const editProduct = async (req, res) => {
 
   return res.status(200).json({message:"product edited successful", data:updatedProduct})
 };
+ 

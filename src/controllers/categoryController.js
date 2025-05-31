@@ -1,4 +1,4 @@
-import category from "../models/categoryModel/categorySchema";
+import category from "../models/categoryModel/categorySchema.js";
 import subCategorySchema from "../models/subCategoryModel/SubCategory.js";
 import CustomError from "../utils/customErrorHandler.js";
 
